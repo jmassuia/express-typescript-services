@@ -1,4 +1,4 @@
-# Nodejs Express app, using typescript and SQLite
+# Nodejs Express app, using typescript
 
 ## Installation guide
 
